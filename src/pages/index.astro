@@ -1,0 +1,22 @@
+---
+import '@/styles/globals.css'
+import { Button } from "@/components/ui/button"
+import Sample from '@/components/section/sample'
+---
+
+<html lang="en">
+	<head>
+		<meta charset="utf-8" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="viewport" content="width=device-width" />
+		<meta name="generator" content={Astro.generator} />
+		<title>Astro</title>
+	</head>
+	<body>
+		<h1>Astro</h1>
+		<Button>Hello World8</Button>
+		<div style="height:15px"></div>
+		<Sample client:visible={{rootMargin: "200px"}}/>
+
+	</body>
+</html>
