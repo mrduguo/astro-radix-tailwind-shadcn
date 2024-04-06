@@ -1,6 +1,8 @@
 # astro-radix-tailwind-shadcn 
 
-Sample project based on [guide](https://ui.shadcn.com/docs/installation/astro)
+Sample project based on [guide](https://ui.shadcn.com/docs/installation/astro). 
+
+Published as https://mrduguo.github.io/astro-radix-tailwind-shadcn/
 
 ## npm create astro@latest
 * [Configure your Astro project](https://ui.shadcn.com/docs/installation/astro#configure-your-astro-project)
