@@ -6,6 +6,12 @@
       "name": "Development server",
       "request": "launch",
       "type": "node-terminal"
+    },
+    {
+      "command": "npm run preview",
+      "name": "Preview",
+      "request": "launch",
+      "type": "node-terminal"
     }
   ]
 }
